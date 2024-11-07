@@ -16,3 +16,12 @@ header{
     text-align: center;
     color: deepskyblue;
 }
+    img{
+            height: 200px;
+    }
+    .videos{
+        display: flex;
+        overflow-x: auto;
+        gap: 10px;
+        padding-right: 20px;
+    }
