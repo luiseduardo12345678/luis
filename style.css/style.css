@@ -22,8 +22,8 @@ header{
     img{
             height: 200px;
     }
-    
-    .video{
+
+    chamada.video{
         display: flex;
         overflow-x: auto;
         gap: 10px;
